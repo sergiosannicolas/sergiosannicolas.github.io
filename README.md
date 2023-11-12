@@ -1,2 +1,2 @@
 # sergiosannicolas.github.io
-[Enlace al informe](flowmap.pbix)
+[Enlace al informe](Flowmap.pbix)
