@@ -1,2 +1,2 @@
 # sergiosannicolas.github.io
-[Enlace al informe](Flowmap.pbix)
+[Enlace al informe](Flowmap_pdf.pdf)
